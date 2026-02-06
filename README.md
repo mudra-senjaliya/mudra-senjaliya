@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer | Full-Stack Developer | Mentor**  
 
-📍 Berlin, Germany | 💼 Currently at **Aviv Group GmbH**  
+📍 Berlin, Germany
 
 ---
 
@@ -13,17 +13,18 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python, Java  
-- **Frontend:** React, Next.js, Vue, Nuxt, Cypress, Jest, Playwright  
+- **Languages:** JavaScript, TypeScript, Python, Golang  
+- **Frontend:** React, Next.js, Vue, Nuxt
 - **Backend:** Node.js, Express, FastAPI, Kafka, MongoDB, MySQL, Redis  
-- **Cloud & DevOps:** AWS (Lambda, SQS, SNS, API Gateway, DynamoDB, S3), Terraform, Kubernetes, Docker  
+- **Cloud & DevOps:** AWS Services, Terraform, Kubernetes, Docker  
 - **Monitoring & Analytics:** Datadog, Splunk, Grafana
 
 ---
 
 ## 🎓 Education  
-🎓 **Master of Technology in Computer Science & Engineering** - VIT, India (9.09/10)  
-🎓 **Bachelor of Engineering in IT** - LDRP, India (7.87/10)  
+🎓 **Master of Technology in Computer Science & Engineering** - VIT, India 
+
+🎓 **Bachelor of Engineering in IT** - LDRP, India 
 
 ---
 
